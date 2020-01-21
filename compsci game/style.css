@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+
+canvas{
+    border: 1px solid gray
+}
+
+.victory{
+    display: none;
+    text-align: center;
+}
+
+.powerup{
+    display: none;
+}
+
+.whatdo{
+    display: none;
+}
